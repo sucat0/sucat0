@@ -1,0 +1,12 @@
+{
+  "name": "@sucat0/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier configuration",
+  "main": "index.json",
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "sucat0",
+    "email": "sucat1007@gmail.com"
+  }
+}
