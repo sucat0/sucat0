@@ -1,6 +1,6 @@
 {
   "name": "@sucat0/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal Prettier configuration",
   "main": "index.js",
   "license": "MIT",
