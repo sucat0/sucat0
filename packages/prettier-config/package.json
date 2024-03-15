@@ -2,7 +2,7 @@
   "name": "@sucat0/prettier-config",
   "version": "1.0.0",
   "description": "My personal Prettier configuration",
-  "main": "index.json",
+  "main": "index.js",
   "license": "MIT",
   "private": false,
   "author": {
