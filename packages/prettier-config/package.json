@@ -1,6 +1,6 @@
 {
   "name": "@sucat0/prettier-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "My personal Prettier configuration",
   "main": "index.js",
   "license": "MIT",
@@ -8,5 +8,8 @@
   "author": {
     "name": "sucat0",
     "email": "sucat1007@gmail.com"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0"
   }
 }
