@@ -4,5 +4,4 @@ module.exports = {
     "trailingComma": "all",
     "singleQuote": true,
     "semi": false,
-    "plugins": ["@trivago/prettier-plugin-sort-imports"]
 }
